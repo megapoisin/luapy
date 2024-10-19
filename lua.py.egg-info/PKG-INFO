@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: lua.py
+Version: 0.1.0
+Summary: A package that implements the Roblox API easily.
+Home-page: https://github.com/megapoisin/luapy
+Author: megapoisin
+License: The Unlicense
+Project-URL: Source Code, https://github.com/megapoisin/luapy
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Topic :: Utilities
+Requires-Python: >=3.10,<3.14
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# lua.py
+ 
+lua.py is a test module that allows lua to be executed in python.
+
+.. Okay, well maybe not.
+Anyway, lua.py is just a module that gets the roblox api easily.
+(i know this is a bad name, but whatever, no one cares.)
+
+Also, this is my first module. I am learning this from Carberra on YouTube. Here is the link: https://www.youtube.com/watch?v=WGsMydFFPMk

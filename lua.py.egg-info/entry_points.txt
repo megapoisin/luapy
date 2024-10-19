@@ -1,0 +1,2 @@
+[console_scripts]
+luapy = luapy.cli:main
